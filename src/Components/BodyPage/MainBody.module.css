@@ -1,0 +1,11 @@
+.container{
+    max-width: 1080px;
+    margin: 0 auto;
+}
+.contactUS h1{
+    font-size: 48px;
+    font-weight: 800;
+}
+.contactUS p{
+    font-weight: 500;
+}
